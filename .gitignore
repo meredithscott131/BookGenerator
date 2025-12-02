@@ -1,8 +1,9 @@
-# # .gitignore
-# backup/
+# .gitignore
+backup/
 
-# # Ignore Houdini backup files
-# backup/
-# asset_versions/backup/
-# exercies/
-# old_versions/
+# Ignore Houdini backup files
+backup/
+asset_versions/
+asset_versions/backup/
+exercises/
+old_versions/

@@ -8,6 +8,7 @@ def switchPointNode(kwargs, myHda):
         parm.set(1)
         
         
+        
 def toggleOrientation(kwargs):
     node = kwargs['node']
     parm_name = kwargs['parm'].name()
@@ -19,4 +20,3 @@ def toggleOrientation(kwargs):
         vertical.set(0 if horizontal.eval() else 1)
     elif parm_name == "verticalToggle":
         horizontal.set(0 if vertical.eval() else 1)
-
