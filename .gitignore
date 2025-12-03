@@ -1,9 +1,9 @@
 # .gitignore
 backup/
 
-# Ignore Houdini backup files
-backup/
+# Ignore
 asset_versions/
 asset_versions/backup/
 exercises/
 old_versions/
+media/raw/
