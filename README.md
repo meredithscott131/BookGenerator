@@ -50,15 +50,10 @@ https://github.com/user-attachments/assets/ea44f06d-076f-4fec-ad33-386060413a33
     <td><img src="media\book_row_loop.gif" width="100%"></td>
     <td><img src="media\book_stack_loop.gif" width="100%"></td>
   </tr>
-</table>
-<table>
   <tr>
     <td><img src="media\Row.png" width="100%"></td>
     <td><img src="media\Stack.png" width="100%"></td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td><img src="media\UI_1.png" width="100%"></td>
     <td><img src="media\UI_2.png" width="100%"></td>
