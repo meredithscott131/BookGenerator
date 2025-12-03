@@ -9,9 +9,7 @@ Instantly populate bookshelves or scatter books across surfaces with this proced
 
 <br>
 
-<video width="100%" controls>
-  <source src="media\Walkthrough.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/ea44f06d-076f-4fec-ad33-386060413a33
 
 ## Features
 - Horizontal and vertical orientation toggling
